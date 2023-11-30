@@ -2,7 +2,7 @@
 
 #### 1) Create environement
 ```
-conda activate -p venv
+conda activate -p AMZ -y
 ```
 #### 2) Create setup.py--> copy the code from my git hub repository
 #### 3) Pip install requirements.txt file

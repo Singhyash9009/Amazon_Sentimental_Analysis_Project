@@ -1,0 +1,15 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+xgboost
+dill
+Flask
+spacy
+nltk
+wordcloud
+textblob
+streamlit
+statsmodels
+#-e .

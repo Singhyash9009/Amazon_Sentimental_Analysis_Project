@@ -12,10 +12,24 @@ pip install -r requirements.txt
 
 ```
 #### 4) Create notebooks for 
-* Preprocessing_EDA
-* ML_File
-* Clustering_File
-* TSA_File
+##### i) Preprocessing_EDA
+* Loaded data set MetaData and Prime Pantry Data
+* Preprocess it and done EDA
+* Applied NLP and done Sentimental Analysis with help of TextBlob Library
+* Created three sentiments Negative, Neutral nad Positive
+* Uploaded clean_data_final for further analysis
+  
+##### ii) ML_File
+* Performed label encoding and vectorization
+* Applied various model and compared accuracy
+* Deployed it on streamlit app and check the result with sample comment by classifying it's sentiment
+##### iii) Clustering_File
+* Made cluster based on various clustering alogrithm.
+* Based on it created three categories of people.
+##### iv)TSA_File
+* Perfomed on TSA on clean_data_final file
+* Done all the required checks and gather various value for our model design part.
+* Applied model and predcit future sentiments also.
 
 #### 5) Created Model.py having final code for classifications of sentiment in:
 * Negative

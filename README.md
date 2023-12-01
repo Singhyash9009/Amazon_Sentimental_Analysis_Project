@@ -35,7 +35,10 @@ pip install -r requirements.txt
 * Negative
 * Neutral
 * Positive
-#### 6) Copy hte code from my gitHub repository
+#### 6) Copy the code from my gitHub repository for running streamlit app
+* import clean_data_final.csv file
+* copy whole code from Model.py
+
 #### 7) Run the Model.py as-->streamlit run Model.py
 ```
 streamlit run Model.py

@@ -3,7 +3,7 @@
 <div align= "center">
     <h3>Business Problem: Customer retention strategy through feedback analysis (Customer classification & clustering as an outcome of analyzing the review text).Trend & seasonality analysis to predict how frequently a particular category of customer would shop in the future.
 </h3><br>
-    <img src=httphttps://github.com/Singhyash9009/Capstone_Amazon_Project/blob/main/sentiment-blocks-aws-850.jpg >
+    <img src=https://github.com/Singhyash9009/Capstone_Amazon_Project/blob/main/sentiment-blocks-aws-850.jpg >
 </div>
 
 

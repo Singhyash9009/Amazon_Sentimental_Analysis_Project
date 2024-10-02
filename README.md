@@ -21,6 +21,11 @@ pip install -r requirements.txt
 ##### i) Preprocessing_EDA
 * Loaded data set MetaData and Prime Pantry Data
 * Preprocess it and done EDA
+  
+![](https://github.com/Singhyash9009/Amazon_Sentimental_Analysis_Project/blob/main/EDA1.png)
+
+![](https://github.com/Singhyash9009/Amazon_Sentimental_Analysis_Project/blob/main/EDA%202.png)
+
 * Applied NLP and done Sentimental Analysis with help of TextBlob Library
 * Created three sentiments Negative, Neutral nad Positive
 * Uploaded clean_data_final for further analysis

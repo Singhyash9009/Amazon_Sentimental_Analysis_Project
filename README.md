@@ -31,6 +31,9 @@ pip install -r requirements.txt
 ![](https://github.com/Singhyash9009/Amazon_Sentimental_Analysis_Project/blob/main/EDA%204.png)
 
 * Applied NLP and done Sentimental Analysis with help of TextBlob Library
+  
+![](https://github.com/Singhyash9009/Amazon_Sentimental_Analysis_Project/blob/main/tbl.png)
+
 * Created three sentiments Negative, Neutral nad Positive
 * Uploaded clean_data_final for further analysis
   
